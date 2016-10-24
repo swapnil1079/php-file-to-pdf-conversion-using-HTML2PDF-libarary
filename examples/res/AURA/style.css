@@ -1,0 +1,526 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin:0px;
+	padding:0px;
+  /*  font-family: 'Raleway', sans-serif; */
+	background:#ECECEC;
+}
+
+.page1 {
+	background:url(images/19843.jpg);
+
+	width:1500px;
+	height:1150px;
+	display:block; 
+     margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	background-size:100% 100%;
+	position: relative;
+	left:-18px;
+	top: -50px;
+}
+
+.page2 {
+	background:url(images/2_backup.jpg) top center no-repeat;
+	width:1000px;
+	height:1050px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.page3 {
+	background:url(images/3-html.jpg) top center no-repeat;
+	background-size:1000px auto;
+	width:1000px;
+	height:1050px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.page3-table {
+	padding-top:350px;
+	font-size:14px;
+	padding-left:120px;
+}
+
+.page3-table td {
+	padding:20px 0;
+}
+
+.page4 {
+	background:url(images/4-html.jpg) top center no-repeat;
+	background-size:1000px auto;
+	width:1000px;
+	height:900px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.page5 {
+	background:url(images/5-html.jpg) top center no-repeat;
+	background-size:1000px auto;
+	width:1000px;
+	height:1475px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.page6 {
+	background:url(images/6-html.jpg) top center no-repeat;
+	background-size:1000px auto;
+	width:1000px;
+	height:1475px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+.page7 {
+	background:url(images/7-html.jpg) top center no-repeat;
+	background-size:1000px auto;
+	width:900px;
+	height:900px;
+	display:block;
+	margin:0 auto;
+	margin-top:0px;
+	margin-bottom:50px;
+}
+
+
+.page8 {
+	background:url(images/19843.jpg) top center no-repeat;
+	width:1500px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:0px;
+	margin-bottom:50px;
+	background-size:100% 100%;
+	/*position: relative;*/
+	left:-18px;
+	top: -10px;
+}
+
+.page9 {
+	background:url(images/9.jpg) top center no-repeat;
+	width:1000px;
+	height:1150px;
+	display:block;
+	margin:0 auto;
+	margin-top:0px;
+	margin-bottom:50px;
+}
+
+.page10 {
+	background:url(images/10-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1100px;
+	display:block;
+	margin:0 auto;
+	margin-top:0px;
+	margin-bottom:50px;
+}
+
+.page11 {
+	background:url(images/11.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:30px;
+	margin-bottom:50px;
+}
+
+.page12 {
+	background:url(images/12.jpg) top center no-repeat;
+	width:1000px;
+	height:900px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.page13 {
+	background:url(images/13-html.jpg) top center no-repeat;
+	width:1000px;
+	height:900px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page13 h4 {
+	margin:10px 0 5px 0;
+	padding:0px 0 0 0;
+	color:#1babe0;
+	border-bottom:2px solid #333;
+	display:inline-block;
+}
+
+.page14 {
+	background:url(images/14-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:0px;
+	font-size:13px;
+}
+
+.page15 {
+	background:url(images/15-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1280px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page16 {
+	background:url(images/16-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1280px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page17 {
+	background:url(images/17-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1280px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+.page18 {
+	background:url(images/18-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page19 {
+	background:url(images/19-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page20 {
+	background:url(images/20-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+.page21 {
+	background:url(images/21-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page22 {
+	background:url(images/22-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page23 {
+	background:url(images/23-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page24 {
+	background:url(images/24-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+.page25 {
+	background:url(images/25-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page26 {
+	background:url(images/26-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+
+
+
+.personal-detail-table {
+	padding-top:230px;
+}
+.residential-address {
+	padding-top:50px;
+}
+
+.page4-table {
+	padding-top:100px;
+}
+
+.page14-text {
+	border:2px solid #000;
+	width:350px;
+	padding:6px;
+	/*font-family: 'Raleway', sans-serif; */
+	font-size:14px;
+}
+
+.page14-input {
+	border:0;
+	border-top:2px solid #000;
+	width:350px;
+	padding:6px;
+	/*font-family: 'Raleway', sans-serif; */
+	font-size:14px;
+	margin-top:20px;
+}
+	
+	
+	.page27 {
+	background:url(images/27.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	padding-top:120px;
+	font-size:13px;
+}
+
+.page28 {
+	background:url(images/28-html.jpg) top center no-repeat;
+	width:1000px;
+	height:1473px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+
+
+
+.page12-text {
+	padding-top:470px;
+	
+}
+
+.page12-text p {
+	color:#fff;
+	font-size:14px;
+	line-height:30px;
+	padding-left:25px;
+}
+
+.page12-text a {
+	color:#19a2f9;
+	text-decoration:none;
+}
+
+
+.fp1 {
+	background:url(images/new/AURA-Key-Features-Doc-1.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+	background-size:contain;
+}
+
+.fp2 {
+	background:url(images/new/AURA-Key-Features-Doc-2.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp3 {
+	background:url(images/new/AURA-Key-Features-Doc-3.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp4 {
+	background:url(images/new/AURA-Key-Features-Doc-4.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+
+.fp5 {
+	background:url(images/new/AURA-Key-Features-Doc-5.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp6 {
+	background:url(images/new/AURA-Key-Features-Doc-6.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp7 {
+	background:url(images/new/AURA-Key-Features-Doc-7.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp8 {
+	background:url(images/new/AURA-Key-Features-Doc-8.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp9 {
+	background:url(images/new/AURA-Key-Features-Doc-9.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp10 {
+	background:url(images/new/AURA-Key-Features-Doc-10.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
+.fp11 {
+	background:url(images/new/AURA-Key-Features-Doc-11.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:0px;
+	font-size:13px;
+}
+.fp12 {
+	background:url(images/new/AURA-Key-Features-Doc-11.jpg) top center no-repeat;
+	width:1000px;
+	height:1000px;
+	display:block;
+	margin:0 auto;
+	margin-top:50px;
+	margin-bottom:50px;
+	font-size:13px;
+}
